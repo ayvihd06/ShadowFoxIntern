@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    background-color: #F9CD05;
+    padding: 15pt;
+    
+
+}
+.footer{
+    background:black ;
+    background-color: black;
+}
+.p{
+    font-weight:bolder;
+}
+.i{
+    
+    padding: 15px;
+    padding-left: 15pt;
+    padding-right: 15pt;
+    
+}
+
+
+form{
+    border: black;
+    width: 100;
+    text-wrap: ;
+
+}
+td{
+    padding-left: 20px;
+}
+p{
+    font-weight:bold;
+}
+table{
+    border:2px solid;
+    width: 100%;
+    max-height: fit-content;
+    text-align: justify;
+    vertical-align: middle;
+    padding-left:10pt ;
+}
+th, td{
+    padding: 15px;
+}
+tr:hover{
+    border-bottom: black;
+}
+header{
+    border: 5px solid black;
+    background-color: #F9CD05; 
+    padding: 5pt;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large
+}
+#cheer-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    background-color: #F4C300; /* CSK yellow */
+    color: #000; /* CSK black */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  #cheer-message {
+    position: fixed;
+    bottom: 70px;
+    left: 20px;
+    padding: 15px 25px;
+    background-color: #F4C300; /* CSK yellow */
+    color: #000; /* CSK black */
+    border: 1px solid #000; /* Black border */
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    display: none; /* Hidden initially */
+  }
+  
